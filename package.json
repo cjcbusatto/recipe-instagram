@@ -1,10 +1,16 @@
 {
     "id": "instagram",
-    "name": "instagram",
+    "name": "Instagram",
     "version": "1.0.0",
-    "description": "Instagram",
+    "description": "Instagram recipe for Franz 5",
     "main": "index.js",
     "author": "Adam Birds <adam.birds@adbtechltd.co.uk>",
+    "contributors": [
+        {
+            "name": "Claudio Busatto",
+            "url": "http://github.com/cjcbusatto"
+        }
+    ],
     "license": "MIT",
     "config": {
         "serviceURL": "https://www.instagram.com/"
